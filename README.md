@@ -14,7 +14,7 @@
 - 💻 &nbsp; C++ | Python |
 - 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Atom | Git
+- 🔧 &nbsp; Android Studio | Atom | Git
 - 🖥 &nbsp; Photoshop
 
 <br>
