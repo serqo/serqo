@@ -8,14 +8,13 @@
 - 🎓 &nbsp; Studying in high school.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; I learn coding in my spare time.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Python | JavaScript
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; C++ | Python |
+- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Atom | Git
 - 🖥 &nbsp; Photoshop
 
 <br>
