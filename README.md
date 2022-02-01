@@ -11,8 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Python |
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap
+- 💻 &nbsp; C++
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | Atom | Git
 - 🖥 &nbsp; Photoshop
